@@ -226,8 +226,8 @@ legend.onAdd = function() {
     console.log(data);
     L.geoJson(data, {
       style: plateStyle
-    }).addTo(TectonicPlatesData);
+    }).addTo(tectonicPlates);
 
-    TectonicPlatesData.addTo(map)
+    tectonicPlates.addTo(map)
   });
 });
