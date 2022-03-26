@@ -7,6 +7,8 @@ Earthquake data in relation to the tectonic plates' location on the earth. All t
 
 ![image](https://user-images.githubusercontent.com/95327338/160220904-26a1ae86-8010-4367-b644-95637fcd6f8d.png)
 
+![image](https://user-images.githubusercontent.com/95327338/160221068-1cea96da-d614-45e9-a9fd-8fd49ab5f842.png)
+
 
 
 
